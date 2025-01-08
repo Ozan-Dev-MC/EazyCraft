@@ -1,7 +1,7 @@
 # Features
 
 ~ **Customizable Messages** You can edit everthing in **config.yml** \
-~ **Quick Craft** You don't need a woekbench / crafting table to craft items! Command /craft item name\
+~ **Quick Craft** You don't need a workbench / crafting table to craft items! Command /craft item name\
 ~ **Material Validation** Checks if players has "enough items" to craft that item
 
 
