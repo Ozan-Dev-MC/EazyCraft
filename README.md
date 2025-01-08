@@ -1,18 +1,18 @@
 # Features
 
-~ **Customizable Messages** You can edit everthing in **config.yml**
-~ **Quick Craft** You don't need a woekbench / crafting table to craft items! Command /craft item name
+~ **Customizable Messages** You can edit everthing in **config.yml** \
+~ **Quick Craft** You don't need a woekbench / crafting table to craft items! Command /craft item name\
 ~ **Material Validation** Checks if players has "enough items" to craft that item
 
 
 # Commands
 
-**/craft <item>** Quick craft
+**/craft <item>** Quick craft\
 **/craft reload** Reloads the **config.yml**
 
 
 # Permission
-**eazycraft.use** Allows player to use the command **/craft**
+**eazycraft.use** Allows player to use the command **/craft**\
 **eazycraft.reload** Allows player to reload the **config.yml**
 
 
