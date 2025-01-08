@@ -19,4 +19,6 @@
 # INFO
 
 ~ Plugin has been tested for 1.8-1.19.4
+
+
 ![standard](https://github.com/user-attachments/assets/dd9233de-d0f4-4fc3-ae08-322456bf6442)
